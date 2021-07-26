@@ -41,13 +41,10 @@ CREATE TABLE `contacts` (
 --
 
 INSERT INTO `contacts` (`sno`, `name`, `ph_num`, `msg`, `date`, `email`) VALUES
-(1, 'first post', '123456789', 'first post', '2020-10-12 21:40:52', 'firstpost@gmail.com'),
-(2, 'priyanshu Mishra', '08770183877', 'nice blog bhai', '2020-10-12 21:53:55', 'priyanshu0171@gmail.com'),
-(3, 'priyanshu Mishra', '08770183877', 'Bhai nice blog', '2020-10-12 21:54:46', 'priyanshu0171@gmail.com'),
-(4, 'Palak Jha', '7999661020', 'Very nice Blog', '2020-10-13 00:31:49', 'Palakjha0601@gmail.com'),
-(5, 'priyanshu Mishra', '08770183877', 'hii', '2020-10-13 17:16:37', 'hajsn@hmanl.com'),
-(8, 'Test_sender', '8770183877', 'Hey this is a test message send from My flask app', '2020-10-13 17:25:08', 'priyanshu@gmail.com'),
-(9, 'priyanshu Mishra', '08770183877', 'This is another text message', '2020-10-13 17:27:12', 'priyanshu0171@gmail.com');
+(1, 'first post', '123456789', 'first post', '2020-10-12 21:40:52', 'email@gmail.com'),
+(2, 'priyanshu Mishra', '5656565656', 'nice blog bhai', '2020-10-12 21:53:55', 'female@gmail.com'),
+(3, 'priyanshu Mishra', '7878787878', 'Bhai nice blog', '2020-10-12 21:54:46', 'Tmail@gmail.com')
+
 
 -- --------------------------------------------------------
 
